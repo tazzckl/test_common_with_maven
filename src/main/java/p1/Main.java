@@ -11,5 +11,6 @@ public class Main {
         for(int i = s1.length();i >= 1;i--){
             int a = s1.charAt(i - 1) - '0';
         }
+        System.out.println(123);
     }
 }
